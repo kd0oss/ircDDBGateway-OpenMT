@@ -1,3 +1,5 @@
+2026/10/16 -- Rick KD0OSS -- Updated to allow settings to be stored in OpenMT database. Can configure using Dashboard.
+
 This is the ircDDB Gateway. It allows a D-Star Repeater to interface into callsign routing via ircDDB and all of the different reflector types. It includes many facilities, including:
 
 * Supports Icom stacks.
